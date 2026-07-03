@@ -1,0 +1,18 @@
+# Nova-Ultra-Advanced System Automation Assistant - Requirements
+
+eel
+openai
+python-dotenv
+google-genai
+pandas
+numpy
+pollinations
+Pillow
+requests
+pygame
+edge-tts
+psutil
+pyautogui
+pywhatkit
+pyperclip
+packaging
